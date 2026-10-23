@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.py
+src/ransomware_canary_detector.egg-info/PKG-INFO
+src/ransomware_canary_detector.egg-info/SOURCES.txt
+src/ransomware_canary_detector.egg-info/dependency_links.txt
+src/ransomware_canary_detector.egg-info/entry_points.txt
+src/ransomware_canary_detector.egg-info/requires.txt
+src/ransomware_canary_detector.egg-info/top_level.txt
+tests/test_alerts.py
+tests/test_detector.py
